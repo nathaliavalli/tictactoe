@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 import javafx.event.EventHandler;
 import javafx.event.ActionEvent;
 
-public class TicTacToe1 extends Application {
+public class ticTacToe extends Application {
 
     String player1 = "X";
     String player2 = "O";
