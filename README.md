@@ -12,17 +12,20 @@ Basic understanding of Java programming language and JavaFX framework.
 Usage
 
 Clone or download the repository to your local machine.
-Compile the TicTacToe1.java file using the following command:
+Compile the ticTacToe.java file using the following command:
 Copy code
-javac TicTacToe1.java
+javac ticTacToe.java
 Run the compiled program using the following command:
 Copy code
-java TicTacToe1
+java ticTacToe
 Enter the names of Player 1 and Player 2 in the designated fields.
 Click on the grid buttons to make moves.
 The game automatically detects the winner and displays a popup with the winner's name.
 Click on the "Restart" button to start a new game.
 Click on the "Tutorial" button to view information about the game.
+
+
+
 Features
 
 Customizable player names.
@@ -30,6 +33,9 @@ Dynamic display of player names and symbols (X or O).
 Restart button to start a new game.
 Tutorial button to display information about the game.
 Popup notification when a player wins.
+
+
+
 Implementation Details
 
 The game is implemented using JavaFX for the user interface.
