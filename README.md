@@ -12,12 +12,8 @@ Basic understanding of Java programming language and JavaFX framework.
 Usage
 
 Clone or download the repository to your local machine.
-Compile the ticTacToe.java file using the following command:
-Copy code
-javac ticTacToe.java
-Run the compiled program using the following command:
-Copy code
-java ticTacToe
+Compile the ticTacToe.java file 
+Run the compiled program 
 Enter the names of Player 1 and Player 2 in the designated fields.
 Click on the grid buttons to make moves.
 The game automatically detects the winner and displays a popup with the winner's name.
